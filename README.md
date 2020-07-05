@@ -3,6 +3,8 @@
 
 WEB scraper to get the PNR Status of the PNR number and save it as an image
 
+working video link https://www.youtube.com/watch?v=pl11m0yeaEk
+
 
 
 steps to be done 
